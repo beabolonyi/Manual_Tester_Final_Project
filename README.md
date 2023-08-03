@@ -5,3 +5,6 @@
 :woman_technologist: I’m interested in learning more about testing world and I’m looking for a role of QA.
 
 # About the Project
+The program focused primarily on manual testing, covering the theoretical aspects and best practices. I acquired an understanding of test processes, test levels, test techniques, and the fundamental principles of testing, among other topics. In terms of practical experience, I had the opportunity to work inteams with fellow students.
+
+In the individual project, which followed the Software Development Life Cycle (SDLC) of an IT project, I performed testing on a live website. I followed the Agile Methodology with Scrum and worked within a Board environment. My responsibilities included creating a Test Plan, and a Test Strategy at first, then writing User Stories based on business requirements, developing Test Cases using Test Case Lab, identifying, and reporting bugs using Jira, then finally generating a Metrics Report that provided an overview of Test Cases. All relevant documentationwas uploaded to Confluence.
