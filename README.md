@@ -10,3 +10,4 @@ The program focused primarily on manual testing, covering the theoretical aspect
 In the individual project, which followed the Software Development Life Cycle (SDLC) of an IT project, I performed testing on a live website. I followed the Agile Methodology with Scrum and worked within a Board environment. My responsibilities included creating a Test Plan, and a Test Strategy at first, then writing User Stories based on business requirements, developing Test Cases using Test Case Lab, identifying, and reporting bugs using Jira, then finally generating a Metrics Report that provided an overview of Test Cases. All relevant documentationwas uploaded to Confluence.
 
 # User Stories
+The project consists of 8 User Stories (US) available for the project, divided into two development sprints.
