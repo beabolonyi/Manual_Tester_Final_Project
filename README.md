@@ -12,4 +12,4 @@ In the individual project, which followed the Software Development Life Cycle (S
 # User Stories
 The project consists of 8 User Stories (US) available for the project, divided into two development sprints.
 
-- BP-2 [https://github.com/beabolonyi/Manual_Tester_Final_Project/blob/77823876bb4e807efc90fe3408e7deab545c8c5c/User%20Stories/%5B%23BP-2%5D%20Design%20Sectiune%20_Servicii%20Publice%20Online_.pdf] 
+- [BP-2] (https://github.com/beabolonyi/Manual_Tester_Final_Project/blob/77823876bb4e807efc90fe3408e7deab545c8c5c/User%20Stories/%5B%23BP-2%5D%20Design%20Sectiune%20_Servicii%20Publice%20Online_.pdf) 
