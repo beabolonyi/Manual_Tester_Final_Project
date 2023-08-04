@@ -16,5 +16,5 @@ The project consists of 8 User Stories (US) available for the project, divided i
 - [BP-3](https://github.com/beabolonyi/Manual_Tester_Final_Project/blob/0c0c558bcb68a4a2bd98309b191c9398bc76e835/User%20Stories/%5B%23BP-3%5D%20Accesare%20Categorii%20din%20Sectiune%20_Servicii%20Publice%20Online_.pdf)
 - [BP-4](https://github.com/beabolonyi/Manual_Tester_Final_Project/blob/0c0c558bcb68a4a2bd98309b191c9398bc76e835/User%20Stories/%5B%23BP-4%5D%20Pagina%20Primar%20-%20Part%201.pdf)
 - [BP5](https://github.com/beabolonyi/Manual_Tester_Final_Project/blob/0c0c558bcb68a4a2bd98309b191c9398bc76e835/User%20Stories/%5B%23BP-5%5D%20Partia%20de%20schi.pdf)
-- [BP-7](User Stories/[#BP-7] Accesibilitate Meniu_Header and Footer.pdf)
+- [BP-7](https://github.com/beabolonyi/Manual_Tester_Final_Project/blob/68c7822484583412e2175dd408570da22a6104c8/User%20Stories/%5B%23BP-7%5D%20Accesibilitate%20Meniu_Header%20and%20Footer.pdf)https://github.com/beabolonyi/Manual_Tester_Final_Project/blob/68c7822484583412e2175dd408570da22a6104c8/User%20Stories/%5B%23BP-7%5D%20Accesibilitate%20Meniu_Header%20and%20Footer.pdf)
 - [BP-8](https://github.com/beabolonyi/Manual_Tester_Final_Project/blob/0c0c558bcb68a4a2bd98309b191c9398bc76e835/User%20Stories/%5B%23BP-8%5D%20Organigrama%20Primariei.pdf)
