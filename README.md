@@ -12,7 +12,4 @@ In the individual project, which followed the Software Development Life Cycle (S
 # User Stories
 The project consists of 8 User Stories (US) available for the project, divided into two development sprints.
 
-Markup : * Bullet list
-              * Nested bullet
-                  * Sub-nested bullet etc
-          * Bullet list item 2
+- BP-2 [User Stories/[#BP-2] Design Sectiune _Servicii Publice Online_.pdf]
