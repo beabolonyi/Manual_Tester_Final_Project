@@ -45,3 +45,20 @@ The project consists of 8 User Stories (US) available for the project, divided i
 - [TCResult-685](https://github.com/beabolonyi/Manual_Tester_Final_Project/blob/30589272362c52d1fdd6a39838992b3307f54b17/Test%20Cases%20%2B%20Test%20Case%20Results/TCResult-685.pdf) - Log Into UserWay
 - [TCR-687](https://github.com/beabolonyi/Manual_Tester_Final_Project/blob/30589272362c52d1fdd6a39838992b3307f54b17/Test%20Cases%20%2B%20Test%20Case%20Results/RLR-687.pdf) - Raportare problema
 - [TCResult-687](https://github.com/beabolonyi/Manual_Tester_Final_Project/blob/30589272362c52d1fdd6a39838992b3307f54b17/Test%20Cases%20%2B%20Test%20Case%20Results/TCResult-687.pdf) - Raportare problema
+
+# Bugs
+- [BP-6](https://github.com/beabolonyi/Manual_Tester_Final_Project/blob/482ea4cb551c0e3763f3b6c4610e8e4101210390/Defect%20Reports/%5B%23BP-6%5D%20Programari%20online%20nefunctional.pdf) - Programari online nefunctional
+- [BP-9](https://github.com/beabolonyi/Manual_Tester_Final_Project/blob/482ea4cb551c0e3763f3b6c4610e8e4101210390/Defect%20Reports/%5B%23BP-9%5D%20Video%20nefunctional.pdf) - Video nefunctional
+
+# Test Techniques used 
+- Black-box testing
+- Performance Testing
+
+# Testing Tools used
+- Snipping Tool
+- Paint
+- Capture - Windows 11 screen recorder
+- iPonhe 11 Pro screen recorder
+- Planning Poker
+- Jira
+- Confluence
