@@ -26,22 +26,22 @@ The project consists of 8 User Stories (US) available for the project, divided i
 
 # Test Cases and Test Case Results
 - [RLR-594](https://github.com/beabolonyi/Manual_Tester_Final_Project/blob/30589272362c52d1fdd6a39838992b3307f54b17/Test%20Cases%20%2B%20Test%20Case%20Results/RLR-594.pdf) - Design Sectiune Servicii Publice
-- [TCResult-594](https://github.com/beabolonyi/Manual_Tester_Final_Project/blob/30589272362c52d1fdd6a39838992b3307f54b17/Test%20Cases%20%2B%20Test%20Case%20Results/TCResult_594.pdf)
-- [RLR-612](https://github.com/beabolonyi/Manual_Tester_Final_Project/blob/30589272362c52d1fdd6a39838992b3307f54b17/Test%20Cases%20%2B%20Test%20Case%20Results/RLR-612.pdf)
-- [TCResult-612](https://github.com/beabolonyi/Manual_Tester_Final_Project/blob/30589272362c52d1fdd6a39838992b3307f54b17/Test%20Cases%20%2B%20Test%20Case%20Results/TCResult-612.pdf)
-- [RLR-614](https://github.com/beabolonyi/Manual_Tester_Final_Project/blob/30589272362c52d1fdd6a39838992b3307f54b17/Test%20Cases%20%2B%20Test%20Case%20Results/RLR-614.pdf)
-- [TCResult-614](https://github.com/beabolonyi/Manual_Tester_Final_Project/blob/30589272362c52d1fdd6a39838992b3307f54b17/Test%20Cases%20%2B%20Test%20Case%20Results/TCResult-614.pdf)
-- [RLR-620](https://github.com/beabolonyi/Manual_Tester_Final_Project/blob/30589272362c52d1fdd6a39838992b3307f54b17/Test%20Cases%20%2B%20Test%20Case%20Results/RLR-620.pdf)
-- [TCResult-620](https://github.com/beabolonyi/Manual_Tester_Final_Project/blob/30589272362c52d1fdd6a39838992b3307f54b17/Test%20Cases%20%2B%20Test%20Case%20Results/TCResult-620.pdf)
-- [RLR-640](https://github.com/beabolonyi/Manual_Tester_Final_Project/blob/30589272362c52d1fdd6a39838992b3307f54b17/Test%20Cases%20%2B%20Test%20Case%20Results/RLR-640.pdf)
-- [TCResult-640](https://github.com/beabolonyi/Manual_Tester_Final_Project/blob/30589272362c52d1fdd6a39838992b3307f54b17/Test%20Cases%20%2B%20Test%20Case%20Results/TCResult-640.pdf)
-- [RLR-679](https://github.com/beabolonyi/Manual_Tester_Final_Project/blob/30589272362c52d1fdd6a39838992b3307f54b17/Test%20Cases%20%2B%20Test%20Case%20Results/RLR-679.pdf)
-- [TCResult-679](https://github.com/beabolonyi/Manual_Tester_Final_Project/blob/30589272362c52d1fdd6a39838992b3307f54b17/Test%20Cases%20%2B%20Test%20Case%20Results/TCResult-679.pdf)
-- [RLR-680](https://github.com/beabolonyi/Manual_Tester_Final_Project/blob/30589272362c52d1fdd6a39838992b3307f54b17/Test%20Cases%20%2B%20Test%20Case%20Results/RLR-680.pdf)
-- [TCResult-680](https://github.com/beabolonyi/Manual_Tester_Final_Project/blob/30589272362c52d1fdd6a39838992b3307f54b17/Test%20Cases%20%2B%20Test%20Case%20Results/TCResult-680.pdf)
-- [RLR-681](https://github.com/beabolonyi/Manual_Tester_Final_Project/blob/30589272362c52d1fdd6a39838992b3307f54b17/Test%20Cases%20%2B%20Test%20Case%20Results/RLR-681.pdf)
-- [TCResult-681](https://github.com/beabolonyi/Manual_Tester_Final_Project/blob/30589272362c52d1fdd6a39838992b3307f54b17/Test%20Cases%20%2B%20Test%20Case%20Results/TCResult-681.pdf)
-- [RLR-685](https://github.com/beabolonyi/Manual_Tester_Final_Project/blob/30589272362c52d1fdd6a39838992b3307f54b17/Test%20Cases%20%2B%20Test%20Case%20Results/RLR-685.pdf)
-- [TCResult-685](https://github.com/beabolonyi/Manual_Tester_Final_Project/blob/30589272362c52d1fdd6a39838992b3307f54b17/Test%20Cases%20%2B%20Test%20Case%20Results/TCResult-685.pdf)
-- [TCR-687](https://github.com/beabolonyi/Manual_Tester_Final_Project/blob/30589272362c52d1fdd6a39838992b3307f54b17/Test%20Cases%20%2B%20Test%20Case%20Results/RLR-687.pdf)
-- [TCResult-687](https://github.com/beabolonyi/Manual_Tester_Final_Project/blob/30589272362c52d1fdd6a39838992b3307f54b17/Test%20Cases%20%2B%20Test%20Case%20Results/TCResult-687.pdf)
+- [TCResult-594(https://github.com/beabolonyi/Manual_Tester_Final_Project/blob/30589272362c52d1fdd6a39838992b3307f54b17/Test%20Cases%20%2B%20Test%20Case%20Results/TCResult_594.pdf) - Design Sectiune Servicii Publice
+- [RLR-612](https://github.com/beabolonyi/Manual_Tester_Final_Project/blob/30589272362c52d1fdd6a39838992b3307f54b17/Test%20Cases%20%2B%20Test%20Case%20Results/RLR-612.pdf) -Culori Sectiune Servicii Publice
+- [TCResult-612](https://github.com/beabolonyi/Manual_Tester_Final_Project/blob/30589272362c52d1fdd6a39838992b3307f54b17/Test%20Cases%20%2B%20Test%20Case%20Results/TCResult-612.pdf) - Culori Sectiune Servicii Publice
+- [RLR-614](https://github.com/beabolonyi/Manual_Tester_Final_Project/blob/30589272362c52d1fdd6a39838992b3307f54b17/Test%20Cases%20%2B%20Test%20Case%20Results/RLR-614.pdf) - - Accesare categorii
+- [TCResult-614](https://github.com/beabolonyi/Manual_Tester_Final_Project/blob/30589272362c52d1fdd6a39838992b3307f54b17/Test%20Cases%20%2B%20Test%20Case%20Results/TCResult-614.pdf) - Accesare categorii
+- [RLR-620](https://github.com/beabolonyi/Manual_Tester_Final_Project/blob/30589272362c52d1fdd6a39838992b3307f54b17/Test%20Cases%20%2B%20Test%20Case%20Results/RLR-620.pdf) - Sectiunea "Primar" Part 1
+- [TCResult-620](https://github.com/beabolonyi/Manual_Tester_Final_Project/blob/30589272362c52d1fdd6a39838992b3307f54b17/Test%20Cases%20%2B%20Test%20Case%20Results/TCResult-620.pdf) - - Sectiunea "Primar" Part 1
+- [RLR-640](https://github.com/beabolonyi/Manual_Tester_Final_Project/blob/30589272362c52d1fdd6a39838992b3307f54b17/Test%20Cases%20%2B%20Test%20Case%20Results/RLR-640.pdf) - Functionalitate linkuri din sectiunea "Primar" Part 1
+- [TCResult-640](https://github.com/beabolonyi/Manual_Tester_Final_Project/blob/30589272362c52d1fdd6a39838992b3307f54b17/Test%20Cases%20%2B%20Test%20Case%20Results/TCResult-640.pdf) - Functionalitate linkuri din sectiunea "Primar" Part 1
+- [RLR-679](https://github.com/beabolonyi/Manual_Tester_Final_Project/blob/30589272362c52d1fdd6a39838992b3307f54b17/Test%20Cases%20%2B%20Test%20Case%20Results/RLR-679.pdf) - Functionalitate video "Partia de schi Lorincz Zsigmond"
+- [TCResult-679](https://github.com/beabolonyi/Manual_Tester_Final_Project/blob/30589272362c52d1fdd6a39838992b3307f54b17/Test%20Cases%20%2B%20Test%20Case%20Results/TCResult-679.pdf) -Functionalitate video "Partia de schi Lorincz Zsigmond"
+- [RLR-680](https://github.com/beabolonyi/Manual_Tester_Final_Project/blob/30589272362c52d1fdd6a39838992b3307f54b17/Test%20Cases%20%2B%20Test%20Case%20Results/RLR-680.pdf) - Organigrama Primariei
+- [TCResult-680](https://github.com/beabolonyi/Manual_Tester_Final_Project/blob/30589272362c52d1fdd6a39838992b3307f54b17/Test%20Cases%20%2B%20Test%20Case%20Results/TCResult-680.pdf) - Organigrama Primariei
+- [RLR-681](https://github.com/beabolonyi/Manual_Tester_Final_Project/blob/30589272362c52d1fdd6a39838992b3307f54b17/Test%20Cases%20%2B%20Test%20Case%20Results/RLR-681.pdf) - Meniu Accesibilitate
+- [TCResult-681](https://github.com/beabolonyi/Manual_Tester_Final_Project/blob/30589272362c52d1fdd6a39838992b3307f54b17/Test%20Cases%20%2B%20Test%20Case%20Results/TCResult-681.pdf) - Meniu Accesibilitate
+- [RLR-685](https://github.com/beabolonyi/Manual_Tester_Final_Project/blob/30589272362c52d1fdd6a39838992b3307f54b17/Test%20Cases%20%2B%20Test%20Case%20Results/RLR-685.pdf) - Log Into UserWay
+- [TCResult-685](https://github.com/beabolonyi/Manual_Tester_Final_Project/blob/30589272362c52d1fdd6a39838992b3307f54b17/Test%20Cases%20%2B%20Test%20Case%20Results/TCResult-685.pdf) - Log Into UserWay
+- [TCR-687](https://github.com/beabolonyi/Manual_Tester_Final_Project/blob/30589272362c52d1fdd6a39838992b3307f54b17/Test%20Cases%20%2B%20Test%20Case%20Results/RLR-687.pdf) - Raportare problema
+- [TCResult-687](https://github.com/beabolonyi/Manual_Tester_Final_Project/blob/30589272362c52d1fdd6a39838992b3307f54b17/Test%20Cases%20%2B%20Test%20Case%20Results/TCResult-687.pdf) - Raportare problema
