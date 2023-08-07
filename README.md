@@ -1,4 +1,4 @@
-# Hello, my name is Beáta Bölönyi-Márton, this is my GitHub profile
+:wave: # Hello, my name is Beáta Bölönyi-Márton, this is my GitHub profile
 
 :woman_student: I attended an IT School remotely, where I gained knowledge about the IT industry, project board, team collaboration, and various concepts related to software testing.
 
@@ -9,7 +9,7 @@
 :telephone_receiver: Phone number: 0740917774
 
 
-# About the Project
+# About the Project :gem:
 The program focused primarily on manual testing, covering the theoretical aspects and best practices. I acquired an understanding of test processes, test levels, test techniques, and the fundamental principles of testing, among other topics. In terms of practical experience, I had the opportunity to work in teams with fellow students.
 
 In the individual project, which followed the Software Development Life Cycle (SDLC) of an IT project, I performed testing on a live website. I followed the Agile Methodology with Scrum and worked within a Board environment. My responsibilities included creating a Test Plan, and a Test Strategy at first, then writing User Stories based on business requirements, developing Test Cases using Test Case Lab, identifying, and reporting bugs using Jira, then finally generating a Metrics Report that provided an overview of Test Cases. All relevant documentationwas uploaded to Confluence.
@@ -24,7 +24,7 @@ The project consists of 8 User Stories (US) available for the project, divided i
 - [BP-7](https://github.com/beabolonyi/Manual_Tester_Final_Project/blob/e2789c11bf75669792562d3f342ab3e301f85520/User%20Stories/%5B%23BP-7%5D%20Accesibilitate%20Meniu_Header%20and%20Footer.pdf) - Accesibilitate Meniu_Header and Footer
 - [BP-8](https://github.com/beabolonyi/Manual_Tester_Final_Project/blob/0c0c558bcb68a4a2bd98309b191c9398bc76e835/User%20Stories/%5B%23BP-8%5D%20Organigrama%20Primariei.pdf) - Organigrama Primariei
 
-# Test Cases and Test Case Results
+# Test Cases and Test Case Results :green_book:
 - [RLR-594](https://github.com/beabolonyi/Manual_Tester_Final_Project/blob/30589272362c52d1fdd6a39838992b3307f54b17/Test%20Cases%20%2B%20Test%20Case%20Results/RLR-594.pdf) - Design Sectiune Servicii Publice
 - [TCResult-594](https://github.com/beabolonyi/Manual_Tester_Final_Project/blob/3015e64c968ceecda476f7c686fcdf6fd557b703/Documentation/Test%20Cases%20%2B%20Test%20Case%20Results/TCResult_594.pdf) - Design Sectiune Servicii Publice
 - [RLR-612](https://github.com/beabolonyi/Manual_Tester_Final_Project/blob/30589272362c52d1fdd6a39838992b3307f54b17/Test%20Cases%20%2B%20Test%20Case%20Results/RLR-612.pdf) -Culori Sectiune Servicii Publice
@@ -46,7 +46,7 @@ The project consists of 8 User Stories (US) available for the project, divided i
 - [TCR-687](https://github.com/beabolonyi/Manual_Tester_Final_Project/blob/30589272362c52d1fdd6a39838992b3307f54b17/Test%20Cases%20%2B%20Test%20Case%20Results/RLR-687.pdf) - Raportare problema
 - [TCResult-687](https://github.com/beabolonyi/Manual_Tester_Final_Project/blob/30589272362c52d1fdd6a39838992b3307f54b17/Test%20Cases%20%2B%20Test%20Case%20Results/TCResult-687.pdf) - Raportare problema
 
-# Bugs
+# Bugs :beetle:
 - [BP-6](https://github.com/beabolonyi/Manual_Tester_Final_Project/blob/482ea4cb551c0e3763f3b6c4610e8e4101210390/Defect%20Reports/%5B%23BP-6%5D%20Programari%20online%20nefunctional.pdf) - Programari online nefunctional
 - [BP-9](https://github.com/beabolonyi/Manual_Tester_Final_Project/blob/482ea4cb551c0e3763f3b6c4610e8e4101210390/Defect%20Reports/%5B%23BP-9%5D%20Video%20nefunctional.pdf) - Video nefunctional
 
