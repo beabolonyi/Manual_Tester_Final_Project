@@ -26,7 +26,7 @@ The project consists of 8 User Stories (US) available for the project, divided i
 
 # Test Cases and Test Case Results
 - [RLR-594](https://github.com/beabolonyi/Manual_Tester_Final_Project/blob/30589272362c52d1fdd6a39838992b3307f54b17/Test%20Cases%20%2B%20Test%20Case%20Results/RLR-594.pdf) - Design Sectiune Servicii Publice
-- [TCResult-594(https://github.com/beabolonyi/Manual_Tester_Final_Project/blob/30589272362c52d1fdd6a39838992b3307f54b17/Test%20Cases%20%2B%20Test%20Case%20Results/TCResult_594.pdf) - Design Sectiune Servicii Publice
+- [TCResult-594](https://github.com/beabolonyi/Manual_Tester_Final_Project/blob/3015e64c968ceecda476f7c686fcdf6fd557b703/Documentation/Test%20Cases%20%2B%20Test%20Case%20Results/TCResult_594.pdf) - Design Sectiune Servicii Publice
 - [RLR-612](https://github.com/beabolonyi/Manual_Tester_Final_Project/blob/30589272362c52d1fdd6a39838992b3307f54b17/Test%20Cases%20%2B%20Test%20Case%20Results/RLR-612.pdf) -Culori Sectiune Servicii Publice
 - [TCResult-612](https://github.com/beabolonyi/Manual_Tester_Final_Project/blob/30589272362c52d1fdd6a39838992b3307f54b17/Test%20Cases%20%2B%20Test%20Case%20Results/TCResult-612.pdf) - Culori Sectiune Servicii Publice
 - [RLR-614](https://github.com/beabolonyi/Manual_Tester_Final_Project/blob/30589272362c52d1fdd6a39838992b3307f54b17/Test%20Cases%20%2B%20Test%20Case%20Results/RLR-614.pdf) - - Accesare categorii
